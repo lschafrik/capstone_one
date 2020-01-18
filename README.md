@@ -1,6 +1,4 @@
-<#p align="center">
-    ![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png)
-</#p>
+![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png#style=centerme)
 
 ## Overview
 ***
