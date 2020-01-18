@@ -1,4 +1,4 @@
-![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png#center)
+![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png#right)
 
 ## Overview
 ***
