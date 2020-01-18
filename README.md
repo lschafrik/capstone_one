@@ -1,4 +1,4 @@
-<p align="center"><img src="![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png)" alt="Image"/></p>
+->![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png)<-
 
 ## Overview
 ***
