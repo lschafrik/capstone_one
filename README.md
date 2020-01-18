@@ -1,5 +1,5 @@
 <p align="center">
-    <src="![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png)">
+    "![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png)"
 </p>
 
 ## Overview
