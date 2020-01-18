@@ -1,4 +1,4 @@
-<div style="text-align: center"><img src="pictures/Rent_the_Runway_Logo.png" width="100" /></div>
+<div style="text-align: center"><img src="pictures/Rent_the_Runway_Logo.png" width="300" /></div>
 
 ![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png)
 
