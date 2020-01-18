@@ -1,4 +1,6 @@
-![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png#right)
+<div style="text-align: center"><img src="pictures/Rent_the_Runway_Logo.png" width="100" /></div>
+
+![Rent_the_Runway_Logo.png](pictures/Rent_the_Runway_Logo.png)
 
 ## Overview
 ***
