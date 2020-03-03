@@ -98,7 +98,7 @@
     - Mean: 132.82
     - Standard Deviation: 18.0
     
-$$ \text{Z-Test Formula} = \frac{135.32-132.82}{\sqrt{\frac{18.6^2}{4019}+\frac{18.0^2}{2447}}} $$
+# formula goes here
     
 - Z-test: 5.35
 - P-value: 0.00000009
