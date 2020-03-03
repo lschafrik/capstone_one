@@ -86,7 +86,7 @@
 
 
 - Here's a brief look at the two categories:
-![download-13.png](pictures/download-13.png)
+<p align="center"><img src="pictures/download-13.png" /></p>
 
 
 - Jumpsuit data:
@@ -98,7 +98,7 @@
     - Mean: 132.82
     - Standard Deviation: 18.0
     
-# formula goes here
+<p align="center"><img src="pictures/CodeCogsEqn.gif" /></p>
     
 - Z-test: 5.35
 - P-value: 0.00000009
